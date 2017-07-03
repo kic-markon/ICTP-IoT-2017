@@ -3,6 +3,8 @@
 
 ### Time series analysis
 
+Outliers.ipynb: for simple filtering of noisy data
+
 ARIMAmodel.ipynb: for prediction using control theory.
 
 FBProphetICTP.ipynb: for prediction by "AI" methods.
