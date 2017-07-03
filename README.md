@@ -6,6 +6,7 @@ Lecture slides are in IoT-sigproc.pdf.
 ### Time series analysis
 
 TimeSeriesManipulation.ipynb: for basic operations
+(uses the mmenv01.csv datafile)
 
 Outliers.ipynb: for simple filtering of noisy data
 
